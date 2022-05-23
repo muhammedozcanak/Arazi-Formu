@@ -1,0 +1,13 @@
+C:\Users\Genesis\source\repos\AraziTakip\obj\Debug\AraziTakip.csprojAssemblyReference.cache
+C:\Users\Genesis\source\repos\AraziTakip\obj\Debug\AraziTakip.Properties.Resources.resources
+C:\Users\Genesis\source\repos\AraziTakip\obj\Debug\AraziTakip.csproj.GenerateResource.cache
+C:\Users\Genesis\source\repos\AraziTakip\obj\Debug\AraziTakip.csproj.CoreCompileInputs.cache
+C:\Users\Genesis\source\repos\AraziTakip\bin\Debug\AraziTakip.exe.config
+C:\Users\Genesis\source\repos\AraziTakip\bin\Debug\AraziTakip.exe
+C:\Users\Genesis\source\repos\AraziTakip\bin\Debug\AraziTakip.pdb
+C:\Users\Genesis\source\repos\AraziTakip\obj\Debug\AraziTakip.exe
+C:\Users\Genesis\source\repos\AraziTakip\obj\Debug\AraziTakip.pdb
+C:\Users\Genesis\source\repos\AraziTakip\bin\Debug\AraziDB.mdb
+C:\Users\Genesis\source\repos\AraziTakip\obj\Debug\AraziTakip.csproj.ResolveComReference.cache
+C:\Users\Genesis\source\repos\AraziTakip\obj\Debug\AraziTakip.anasayfa.resources
+C:\Users\Genesis\source\repos\AraziTakip\obj\Debug\AraziTakip.giris.resources
